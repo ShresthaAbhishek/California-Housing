@@ -1,6 +1,6 @@
 # 🏠 California Housing Price Prediction (Learning Project)
 
-This project was created as a **learning exercise** to explore and understand the **fundamentals of machine learning**, particularly focusing on **data cleaning**, **visualization**, and **regression modeling**. It utilizes the **California Housing dataset** to predict median house values in different districts based on various socioeconomic and geographic features.
+This project was created as a **learning exercise** to explore and understand the **fundamentals of machine learning**, particularly focusing on **data cleaning**, **visualization**, and **regression modeling**. It utilizes the **California Housing dataset** to predict median house values in different districts based on various socioeconomic aswell as geographic features.
 
 ---
 
